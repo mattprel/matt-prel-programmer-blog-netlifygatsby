@@ -1,50 +1,36 @@
 ---
 templateKey: index-page
 title: Matt Prel's Programmer's Blog
-image: /img/home-jumbotron.jpg
+image: https://pixabay.com/get/g3566ed91d80bcaa77fd0f59fc8d28f7cb128a813a5e606bb38f28804e81377e12b6c34cd15caec114ec14d90e5d2eb4543edc67fa901f2e633101c3ae16f75173b5afb4f6cd64c7f9e77cb6ee9a4064d_1920.jpg
 heading: Matt Prel's Programmer's Blog
-subheading: Join me on my journey through learning to code and buliding exciting
+subheading: Join me on my journey through learning to program and bulid exciting
   and unique projects.
 mainpitch:
-  title: Why Kaldi
+  title: What things will I include in this blog?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    Everything! I will try my best to document and present everything that I go
+    through on my journey, while also including extras like tutorials and side
+    projects.
+description: "My main aim is to learn JavaScript, a programming language which
+  I'm not currently very familiar with, but hope to get more and more
+  comfortable using in the coming months and years. "
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png
+      text: As mentioned above, my main goal is to be more confortable with
+        JavaScript, and I'll be approaching this first by taking an open-source
+        course on GitHub, Asabeneh / 30-Days-Of-JavaScript, and then progress on
+        from there.
+    - image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        In addition to learning JavaScript, I'll also be building various
+        projects in other programming languages like Python, etc.
+    - image: https://uk.farnell.com/productimages/large/en_GB/2525225-40.jpg
+      text: I'll also be posting tutorials on a variety of Raspberry Pi projects which
+        you can follow along and try out for yourself.
+    - image: https://cdn0.iconfinder.com/data/icons/fashion-clothes-vol-2/48/49-512.png
+      text: I will try to update this blog at least 3 times a week, but hopefully I'll
+        find the time to make new posts more often. Enjoy!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -53,11 +39,8 @@ intro:
     knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  description: I will try to update this blog at least 3 times a week, but
+    hopefully I'll find the time to make new posts more often. Enjoy!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
