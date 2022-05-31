@@ -20,14 +20,14 @@ main:
   description: |
     Identifying Bird Species with the Sound of their Calls and Songs
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: BirdNet-Pi Dashboard
+    image: /img/screenshot-from-2022-04-13-18-16-47-e1649888460589-1024x542.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: spectrogram
+    image: /img/song_sparrow-65-2022-04-13-birdnet-17_16_37.mp3.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Different BirdNet-Pi features
+    image: /img/a_lot_on_offer_with_birdnet-pi.webp
 testimonials:
   - author: "news.ycombinator.com "
     quote: I love this idea. I've just started getting into birds, and I wish I had
@@ -35,7 +35,7 @@ testimonials:
       in the woods for a week.
   - author: reddit.com/r/BirdsArentReal
     quote: Excellent surveillance option
-full_image: /img/products-full-width.jpg
+full_image: /img/bird-g3a28ab294_1920.jpg
 pricing:
   heading: "Overall Estimated Cost of this Project:"
   description: Even though I will try my best to find the most accurate estimate
