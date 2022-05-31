@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Matt Prel's Programmer's Blog
+title: Matt Prel's Programmer Blog
 image: /img/code-ga4801fd2f_1920.jpg
 heading: Matt Prel's Programmer's Blog
 subheading: Join me on my journey through learning to program and bulid exciting
