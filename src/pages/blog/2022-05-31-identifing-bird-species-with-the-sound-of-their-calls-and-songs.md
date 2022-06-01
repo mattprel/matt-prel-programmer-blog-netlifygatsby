@@ -23,6 +23,19 @@ tags:
 * A Power Cable (preferably one that came with your Pi)
 * An existing computer
 
+#### Optional:
+
+* A case for your Raspberry Pi
+* A fan and/or heatsinks for your Pi
+
+Here's what all my equipment looks like:
+
+![all of the equipment](/img/img_20220531_092835.jpg)
+
+And I've set up my microphone next to an open window like this:
+
+![microphone pointing out of an open window](/img/img_20220531_093512.jpg)
+
 ### Once you have these hooked up, head over to a working computer to set up your SD Card:
 
 I used the Raspberry Pi Imager to flash my OS onto my SD Card. Head over to the official [Raspberry Pi Website](https://www.raspberrypi.com/software/) or use these direct download links to get the imager:
