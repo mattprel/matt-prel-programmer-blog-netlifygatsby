@@ -50,6 +50,8 @@ Once installed, launch the imager if you haven't already, then proceed to choose
 
 After your SD Card has finished being written to and verified, go ahead and pop it into your Raspberry Pi and power it up. Wait a couple minutes for your Pi to boot up, then head back to your computer. Open up your terminal or command prompt and SSH into your Pi by running `ssh pi@ip.address`, replacing "ip.address" with the IP address of your Pi. You can find this out either by attaching a monitor to it and running `ifconfig`, or by guessing it. For example, on any new setup with an ethernet cable attached, my Raspberry Pi's IP address is always set to 192.168.1.225, so it might be worth trying that. If it's your first time connecting, you might need to type yes to accept the fingerprint and continue. Once you're in, you'll be ready to run the main command which will download and install BirdNet-Pi, along with any prerequisites it may need. Are you ready? Here it is: `curl -s https://raw.githubusercontent.com/mcguirepr89/BirdNET-Pi/main/newinstaller.sh | bash`
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ew4IKhJs-_A?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ##### When the installation is complete, head over to [birdnetpi.local](birdnetpi.local) in your web browser.
 
 ## **And that's all! Your Pi should now be picking up sounds and telling you what type of bird it is. Have fun and don't be afraid to explore!**
