@@ -1,6 +1,6 @@
 ---
 heading: This page will hold the most recent side projects that I have made.
-path: /projects
+path: /products
 templateKey: product-page
 title: My Projects
 image: /img/26082021_new1_02.webp
