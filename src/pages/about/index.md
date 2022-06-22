@@ -9,7 +9,7 @@ I started this blog as a way to organise and track the progress of my journey, a
 
 ### Privacy Policy
 
-On this website, I provide non-intrusive ads in order to help fund my future projects. In order to show ads that you may be interested in (personalised ads), you'll need to accept our privacy policy. If you wish to not see personalised ads, you may disable them at the bottom of this privacy policy. Please carefully read the following before making your choice: <!--StartFragment-->
+In order to show ads that you may be interested in (personalised ads), you'll need to accept our privacy policy. If you wish to not see personalised ads, you may disable them at the bottom of this privacy policy. Please carefully read the following before making your choice: <!--StartFragment-->
 
 * Third party vendors, including Google, use cookies to serve ads based on your (the user's) previous visits to our website or other websites.
 
